@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=70", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gsmo"                         # PyPI包名（先去pypi.org搜重名）
+version = "1.0.0"                     # 与 __version__ 同步
+description = "General Spatial Multi-omics Optimizer (GSMO)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [{ name = "Your Name", email = "you@example.com" }]
+keywords = ["spatial-omics", "integration", "bioinformatics"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+dependencies = [
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "torch>=2.2",        # 视实际依赖填写
+  "pandas>=2.0"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourname/gsmo"
+Documentation = "https://github.com/yourname/gsmo#readme"
+Issues = "https://github.com/yourname/gsmo/issues"
+
+[project.scripts]                      # 可选：命令行入口
+gsmo = "gsmo.cli:main"                 # 安装后即可运行 `gsmo`
