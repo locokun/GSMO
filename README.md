@@ -63,7 +63,7 @@ squidpy==1.6.5
 
 ## 📘 Dataset
 
-The datasets used in this work are available on Zenodo, with the following DOI: 10.5281/zenodo.17520785 (https://doi.org/10.5281/zenodo.17520785).
+The datasets used in this work are available on [Google drive](https://drive.google.com/drive/folders/1pd-37LSp8pW4bp-QdFz20LaxRwEHArIt?usp=sharing).
 
 Please download the dataset and store it in a directory named `data`. The required directory structure is as follows:
 
@@ -113,9 +113,9 @@ pip install --no-deps geopandas==0.14.4 xarray==2024.10.0 spatialdata==0.3.0
 pip install -r requirements.txt
 ```
 
-4. Download the dataset from Zenodo and extract it into a `data` folder in your project directory.
+4. Download the dataset from [the google drive](https://drive.google.com/drive/folders/1pd-37LSp8pW4bp-QdFz20LaxRwEHArIt?usp=sharing) and extract it into a `data` folder in your project directory.
    
-5. Download the evaluation results from Zenodo and extract it into a `result` folder in your project directory.
+5. Download the evaluation results from [the google drive](https://drive.google.com/drive/folders/1pd-37LSp8pW4bp-QdFz20LaxRwEHArIt?usp=sharing) and extract it into a `result` folder in your project directory.
 
 ## 🔑 Usage
 
