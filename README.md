@@ -13,12 +13,13 @@ This repository contains:
 
 ## 📚 Table of Contents
 1. [Requirements](#-requirements)
-2. [Dataset](#dataset)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Reproducing the Evaluation Results](#reproducing-the-evaluation-results)
-6. [Directory Structure](#directory-structure)
-7. [License](#license)
+2. [Dataset](#-dataset)
+3. [Installation](#-installation)
+4. [Usage](#-usage)
+5. [Reproducing the Evaluation Results](#-reproducing-the-evaluation-results)
+6. [Directory Structure](#-directory-structure)
+7. [License](#-license)
+8. [Acknowledgements](#-acknowledgements)
 
 ## 🔍 Requirements
 
