@@ -12,7 +12,7 @@ This repository contains:
 - Preprocessed datasets for various experiments
 
 ## 📚 Table of Contents
-1. [Requirements](#requirements)
+1. [Requirements](#-requirements)
 2. [Dataset](#dataset)
 3. [Installation](#installation)
 4. [Usage](#usage)
