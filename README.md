@@ -113,6 +113,7 @@ pip install --no-deps geopandas==0.14.4 xarray==2024.10.0 spatialdata==0.3.0
 # 3) Remaining dependencies
 pip install -r requirements.txt
 ```
+On a server equipped with an NVIDIA RTX 3090 GPU, the entire download process takes approximately 3 minutes.
 
 4. Download the dataset from [the google drive](https://drive.google.com/drive/folders/1pd-37LSp8pW4bp-QdFz20LaxRwEHArIt?usp=sharing) and extract it into a `data` folder in your project directory.
    
